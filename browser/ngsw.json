@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "timestamp": 1765250651556,
+  "index": "/PortfolioProject/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/PortfolioProject/favicon.ico",
+        "/PortfolioProject/index.html",
+        "/PortfolioProject/main-46IH53WT.js",
+        "/PortfolioProject/manifest.webmanifest",
+        "/PortfolioProject/styles-EWRZSY74.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/PortfolioProject/assets/LIMS.png",
+        "/PortfolioProject/assets/checkers.png",
+        "/PortfolioProject/assets/pong.png",
+        "/PortfolioProject/assets/resume.png",
+        "/PortfolioProject/icons/icon-128x128.png",
+        "/PortfolioProject/icons/icon-144x144.png",
+        "/PortfolioProject/icons/icon-152x152.png",
+        "/PortfolioProject/icons/icon-192x192.png",
+        "/PortfolioProject/icons/icon-384x384.png",
+        "/PortfolioProject/icons/icon-512x512.png",
+        "/PortfolioProject/icons/icon-72x72.png",
+        "/PortfolioProject/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/PortfolioProject/assets/LIMS.png": "dcb868a8f7c97205e000d6e1344c83018f52c774",
+    "/PortfolioProject/assets/checkers.png": "c51d34d30dbf539d9854f7095b78e7e4066c7be8",
+    "/PortfolioProject/assets/pong.png": "42c42a5eca24c54a38b4dd3b588347792c05afca",
+    "/PortfolioProject/assets/resume.png": "e31895f299cb6accb66c362afcfed5eedc0cc00c",
+    "/PortfolioProject/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/PortfolioProject/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/PortfolioProject/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/PortfolioProject/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/PortfolioProject/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/PortfolioProject/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/PortfolioProject/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/PortfolioProject/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/PortfolioProject/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/PortfolioProject/index.html": "1bc11ae8dc751d5abf1a0708e78c64b111a03102",
+    "/PortfolioProject/main-46IH53WT.js": "f9c7db207ca30072cbc3319b610b36d8bdc79ba0",
+    "/PortfolioProject/manifest.webmanifest": "42c115d240b3a65138caebd240e10a3d2f2c249f",
+    "/PortfolioProject/styles-EWRZSY74.css": "8f29457c79bbc3f55b9282ce556aed48a384de52"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
